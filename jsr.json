@@ -1,5 +1,5 @@
 {
   "name": "@yusukebe/hello",
-  "version": "0.0.2",
+  "version": "0.0.0",
   "exports": "./main.ts"
 }
